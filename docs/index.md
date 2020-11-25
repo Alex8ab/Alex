@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHubAlex8ab</title>
+</head>
+<body>
+  
 
-You can use the [editor on GitHub](https://github.com/Alex8ab/AlexBio/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <h1>Alejandro Ochoa</h1>
 
-### Markdown
+  <img src="..//Resources/Foto Platzi.jpeg" alt="Alejandro Ochoa" width="15%">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <p>M.Sc. in Microelectronic with 7 years of experience in software development and engineering processes. 
+    Technical leader based on agile methodologies.</p>
+  <p>Experienced in Data Analytics, Machine Learning, Deep Learning, Distributed Computing, 
+    Machine Vision, pattern recognition algorithms, predictive analytics. </p>
 
-```markdown
-Syntax highlighted code block
+  <ul>
+    <li><strong>Email:</strong> <a href="#">alx.ocbr@gmail.com</a></li>
+    <li><strong>Github:</strong> <a href="#">Alex8ab</a></li>
+    <li><strong>Twitter:</strong> <a href="#">coming soon</a></li>
+  </ul>
 
-# Header 1
-## Header 2
-### Header 3
+  <table border = "1">
+    <tr>
+      <th>Books</th>
+      <th>Movies</th>
+      <th>Games</th>
+    </tr>
+    <tr>
+      <td>The name of the Rose</td>
+      <td>Training Day</td>
+      <td>Age of Empires</td>
+    </tr>
+    
+  </table>
 
-- Bulleted
-- List
+  <!-- Bonus link to last class page -->
+  <a href="../../../../1/Activities/04-Stu_MyFirst_HTML/Solved/my-first-bonus.html">My First HTML Bonus</a>
 
-1. Numbered
-2. List
+</body>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alex8ab/AlexBio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
